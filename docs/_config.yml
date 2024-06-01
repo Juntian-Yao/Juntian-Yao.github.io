@@ -30,7 +30,7 @@ twitter_username: NA
 github_username:  Juntian-Yao
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
